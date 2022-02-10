@@ -5,7 +5,7 @@ through `Opt` + key combinations.
 
 Some keys that have multiple accents are mapped to
 
-- `ľ` - `Opt` + `[`
+- `ĺ` - `Opt` + `[`
 - `ä` - `Opt` + `]`
 - `ô` - `Opt` + `;`
 

@@ -408,7 +408,7 @@
       <key code="30" output="ä"/>
       <key code="31" output="ó"/>
       <key code="32" output="ú"/>
-      <key code="33" output="ľ"/>
+      <key code="33" output="ĺ"/>
       <key code="34" output="í"/>
       <key code="35" output="p"/>
       <key code="36" output="&#x000D;"/>
@@ -521,11 +521,11 @@
       <key code="30" output="}"/>
       <key code="31" output="Ó"/>
       <key code="32" output="Ú"/>
-      <key code="33" output="Ľ"/>
+      <key code="33" output="Ĺ"/>
       <key code="34" output="Í"/>
       <key code="35" output="P"/>
       <key code="36" output="&#x000D;"/>
-      <key code="37" output="Ĺ"/>
+      <key code="37" output="Ľ"/>
       <key code="38" output="J"/>
       <key code="39" output="&#x0022;"/>
       <key code="40" output="K"/>
