@@ -983,7 +983,7 @@
     </action>
     <action id="k">
       <when state="none" output="k"/>
-      <when state="acute" output="ľ"/>
+      <when state="acute" output="k"/>
     </action>
     <action id="l">
       <when state="none" output="l"/>
@@ -991,7 +991,7 @@
     </action>
     <action id="m">
       <when state="none" output="m"/>
-      <when state="acute" output="m"/>
+      <when state="acute" output="ľ"/>
     </action>
     <action id="n">
       <when state="none" output="n"/>
@@ -1087,7 +1087,7 @@
     </action>
     <action id="ck">
       <when state="none" output="K"/>
-      <when state="acute" output="Ľ"/>
+      <when state="acute" output="K"/>
     </action>
     <action id="cl">
       <when state="none" output="L"/>
@@ -1095,7 +1095,7 @@
     </action>
     <action id="cm">
       <when state="none" output="M"/>
-      <when state="acute" output="M"/>
+      <when state="acute" output="Ľ"/>
     </action>
     <action id="cn">
       <when state="none" output="N"/>
