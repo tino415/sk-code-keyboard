@@ -181,8 +181,8 @@
       <key code="28" output="*"/>
       <key code="29" output=")"/>
       <key code="30" output="}"/>
-      <key code="31" output="O"/>
-      <key code="32" output="U"/>
+      <key code="31" action="co"/>
+      <key code="32" action="cu"/>
       <key code="33" output="{"/>
       <key code="34" action="ci"/>
       <key code="35" action="cp"/>
